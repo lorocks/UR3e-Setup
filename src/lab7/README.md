@@ -25,12 +25,13 @@ To get started with the lab, follow the steps and commands as listed below.
 2. Clone the GitHub repository - Open a terminal and run the following command,
 ```bash
 # Add command to git clone lab7
+  git clone https://github.com/lorocks/UR3e-Setup.git lab-workspace
 ```
 
 3. Navigate into the cloned directory.
 ```bash
 # Change directory
-  cd <Add name of dir>
+  cd lab-workspace
 ```
 
 4. Open the project in Visual Studio Code to start editing.
@@ -39,9 +40,7 @@ To get started with the lab, follow the steps and commands as listed below.
   code .
 ```
 
-5. Reopen the project within a Docker container by followoing the steps below.
-
-images
+5. Reopen the project within a Docker container by followoing the steps below. There should be a pop-up that says open with 
 
 6. Setup the environment with the required dependencies. This might take a few minutes.
 ```bash
