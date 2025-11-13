@@ -17,7 +17,7 @@
 		"--volume=/dev:/dev:rw",
 		"--ipc=host",
 		"--device=/dev/dri",
-		"--device=/dev/video0"
+		// "--device=/dev/video0"
 	],
 
   // Environment variables in the container
