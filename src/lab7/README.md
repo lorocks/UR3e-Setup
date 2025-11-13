@@ -45,7 +45,8 @@ To get started with the lab, follow the steps and commands as listed below.
 6. Setup the environment with the required dependencies. This might take a few minutes.
 ```bash
 # Install using a bash script
-  bash .devcontainer/setup.sh
+  bash
+  .devcontainer/setup.sh
 ```
 
 7. Make sure that you are in the correct directory. The directory should be the GitHub directory. To verify the correct directory rn the following,
